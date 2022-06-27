@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://c.neh.tw/thumb/f/720/5456760395530240.jpg);
+    background-size: 100%;
+}
+fieldset{
+    width: 500px; border-color: rgb(249, 208, 176); border-radius: 25px;
+}
+legend {
+    font-size: large; font-style: italic; color: aliceblue;
+}
+ul { 
+     color: rgba(240, 229, 214, 0.947); font-size: 130%; font-style: italic;
+}
+p{ 
+    color:rgba(240, 229, 214, 0.947) ;
+}
+button{ 
+    padding: 1%; margin-left: 90%;border-radius: 25px;font-size: medium;background-color: rgb(157, 120, 7); border-color: transparent;
+    color: aliceblue; font-style: italic; 
+}
+
+
+
